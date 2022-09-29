@@ -2,7 +2,7 @@
 <br>
 
 ## COMPATIBILITY
-- Check_MK RAW version 1.6.0_p18 
+- Check_MK RAW version 1.6.0
 - Check_MK RAW version 2.1.0p4
 - Should also work with other versions of Check_MK
 
@@ -25,8 +25,6 @@ In order for Check_MK to send alerts (notifications) to the WhatsApp Messenger, 
 To use this shipment, it is necessary to contract the service.
 
 To hire, visit https://www.netizap.app/
-
-There are a lot of good instructions for this on the Internet, so this is not part of this documentation.
 
 ## INSTALLATION
 Change to your Check_MK site user
