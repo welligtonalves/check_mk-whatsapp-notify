@@ -4,7 +4,7 @@ WhatsApp has long been one of my real-time communication media. It is obvious to
 
 ## COMPATIBILITY
 - Check_MK RAW version 1.6.0_p18 
-- Check_MK RAW version 2.0.0_p8
+- Check_MK RAW version 2.1.0p4
 - Should also work with other versions of Check_MK
 
 ## EXAMPLE
