@@ -8,12 +8,11 @@ WhatsApp has long been one of my real-time communication media. It is obvious to
 - Should also work with other versions of Check_MK
 
 ## Creating WhatsApp API Key:
-<!--
+
 <p><s>To use this shipment, it is necessary to contract the service.</s></p>
 
 To hire, visit https://www.netizap.app/
 
--->
 
 ## EXAMPLE
 Notifications are usually sent via a WhatsApp group. Here is an example of how a WhatsApp notification is structured.
@@ -71,7 +70,7 @@ First create a clone of your existing mail notification rule
 
 <img src="images/create_new_notification_rule_for_whatsapp.png" alt="Adjust settings" width="100%"/>
 
-\n
+<br>
 
 ## CONTRIBUTIONS
 * Thank you for the excellent code optimization contributions and additional information [ThomasKaiser](https://github.com/ThomasKaiser).
