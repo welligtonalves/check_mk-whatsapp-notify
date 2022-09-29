@@ -2,26 +2,6 @@
 <img src="images/logo.png" alt="WhatsApp notification example" width="300" align="right" hspace="30" vspace="20"/>
 WhatsApp has long been one of my real-time communication media. It is obvious to output monitoring messages for server and network components as alarm messages. There are several scripts for this on the internet, but most of them are written in Python, many of them have problems with Python3 and its libraries. Instead of spending hours and hours with Python, I decided to use a scripting language I know and write a Linux Bash script for it. 
 
-
-<!-- TOC -->
-
-- [Check_MK WhatsApp notification](#check_mk-WhatsApp-notification)
-    - [COMPATIBILITY](#compatibility)
-    - [EXAMPLE](#example)
-    - [REQUIREMENTS](#requirements)
-    - [INSTALLATION](#installation)
-    - [CHECK_MK CONFIGURATION](#check_mk-configuration)
-        - [CHECK_MK VERSION 2.0.0 AND ABOVE](#check_mk-version-200-and-above)
-        - [CHECK_MK VERSION 1.6.0](#check_mk-version-160)
-        - [ACTIVATE CHANGES](#activate-changes)
-        - [PRIVACY ANONYMIZATION / MASQUERADING](#privacy-anonymization--masquerading)
-    - [PAGER ADDRESS CHAT-ID INSTEAD OF WhatsApp GROUP-ID](#pager-address-chat-id-instead-of-WhatsApp-group-id)
-    - [TROUBLESHOOTING](#troubleshooting)
-    - [CONTRIBUTIONS](#contributions)
-    - [LICENSE](#license)
-
-<!-- /TOC -->
-
 ## COMPATIBILITY
 - Check_MK RAW version 1.6.0_p18 
 - Check_MK RAW version 2.0.0_p8
@@ -35,9 +15,9 @@ Notifications are usually sent via a WhatsApp group. Here is an example of how a
 ## REQUIREMENTS
 In order for Check_MK to send alerts (notifications) to the WhatsApp Messenger, we need
 
-* a WhatsApp bot
-* a username for the bot
-* an API token
+* WhatsApp line
+* url api whatsapp and port
+* WhatsApp API token
 * a WhatsApp Chat- or Group-ID
 
 There are a lot of good instructions for this on the Internet, so this is not part of this documentation.
@@ -55,7 +35,7 @@ cd ~/local/share/check_mk/notifications/
 
 Download the WhatsApp notify script from Git repository
 ```
-git clone https://github.com/filipnet/checkmk-WhatsApp-notify.git .
+git clone https://github.com/welligtonalves/checkmk-telegram-notify .
 ```
 
 Give the script execution permissions
