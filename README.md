@@ -1,17 +1,10 @@
 # Check_MK WhatsApp notification
-<img src="images/logo.png" alt="WhatsApp notification example" width="300" align="right" hspace="30" vspace="20"/>
-WhatsApp has long been one of my real-time communication media. It is obvious to output monitoring messages for server and network components as alarm messages. There are several scripts for this on the internet, but most of them are written in Python, many of them have problems with Python3 and its libraries. Instead of spending hours and hours with Python, I decided to use a scripting language I know and write a Linux Bash script for it. 
+<br>
 
 ## COMPATIBILITY
 - Check_MK RAW version 1.6.0_p18 
 - Check_MK RAW version 2.1.0p4
 - Should also work with other versions of Check_MK
-
-## Creating WhatsApp API Key:
-
-To use this shipment, it is necessary to contract the service.
-
-To hire, visit https://www.netizap.app/
 
 
 ## EXAMPLE
@@ -26,6 +19,12 @@ In order for Check_MK to send alerts (notifications) to the WhatsApp Messenger, 
 * url api whatsapp and port
 * WhatsApp API token
 * a WhatsApp Chat- or Group-ID
+
+## Creating WhatsApp API Key:
+
+To use this shipment, it is necessary to contract the service.
+
+To hire, visit https://www.netizap.app/
 
 There are a lot of good instructions for this on the Internet, so this is not part of this documentation.
 
