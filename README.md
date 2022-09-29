@@ -48,7 +48,7 @@ git clone https://github.com/welligtonalves/check_mk-whatsapp-notify .
 
 Give the script execution permissions
 ```
-chmod +x check_mk_WhatsApp-notify.sh
+chmod +x check_mk_whatsapp-notify.sh
 ```
 
 ## CHECK_MK CONFIGURATION
