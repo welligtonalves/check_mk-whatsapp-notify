@@ -56,8 +56,10 @@ First create a clone of your existing mail notification rule
 * Change the description (e.g. Notify all contacts of a host/service via WhatsApp)
 * The notification method is "Push Notification (by WhatsApp)"
 * Select option "Call with the following parameters:"
-* As the first parameter we set the WhatsApp token ID (without bot-prefix)
-* The second parameter is the WhatsApp Chat-ID or WhatsApp Group-ID
+* As the first parameter we set the WhatsApp line (without bot-prefix)
+* The second parameter is the WhatsApp destiny WhatsApp line / Group-ID
+* The third parameter is the api port WhatsApp
+* The fourth parameter is the api key WhatsApp
 
 <img src="images/create_new_notification_rule_for_whatsapp.png" alt="Adjust settings" width="100%"/>
 
