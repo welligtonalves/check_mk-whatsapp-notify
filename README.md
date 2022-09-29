@@ -9,7 +9,7 @@ WhatsApp has long been one of my real-time communication media. It is obvious to
 
 ## Creating WhatsApp API Key:
 
-<p><s>To use this shipment, it is necessary to contract the service.</s></p>
+To use this shipment, it is necessary to contract the service.
 
 To hire, visit https://www.netizap.app/
 
