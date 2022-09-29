@@ -1,6 +1,9 @@
 # Check_MK WhatsApp notification
 <br>
-
+<div align="center">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> - <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> 
+</div>
+<br>
 ## COMPATIBILITY
 - Check_MK RAW version 1.6.0
 - Check_MK RAW version 2.1.0p4
