@@ -70,7 +70,7 @@ First create a clone of your existing mail notification rule
 <br>
 
 ## INSPIRATION
-* Thank you for the excellent code optimization contributions and additional information [ThomasKaiser](https://
+* Thanks for the excellent script for telegram with some adjustments we managed to make it functional for use with whatsapp. https://github.com/filipnet/checkmk-telegram-notify
 
 ## LICENSE
 checkmk-telegram-notify and all individual scripts are under the BSD 3-Clause license unless explicitly noted otherwise. Please refer to the LICENSE
