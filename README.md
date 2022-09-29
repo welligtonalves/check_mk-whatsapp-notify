@@ -35,7 +35,7 @@ cd ~/local/share/check_mk/notifications/
 
 Download the WhatsApp notify script from Git repository
 ```
-git clone https://github.com/welligtonalves/checkmk-telegram-notify .
+git clone https://github.com/welligtonalves/check_mk-whatsapp-notify .
 ```
 
 Give the script execution permissions
