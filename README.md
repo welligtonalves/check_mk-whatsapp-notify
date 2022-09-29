@@ -1,7 +1,7 @@
 # Check_MK WhatsApp notification
 <br>
 <div align="center">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> - <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="check_mk" src="https://styles.redditmedia.com/t5_3nrmp/styles/communityIcon_0w7sewssv2g41.jpg" /> 
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> - <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="check_mk" src="images/checkmk-logo-itsm-webinar.jpg" /> 
 
 
 </div>
