@@ -7,6 +7,14 @@ WhatsApp has long been one of my real-time communication media. It is obvious to
 - Check_MK RAW version 2.1.0p4
 - Should also work with other versions of Check_MK
 
+## Creating WhatsApp API Key:
+<!--
+<p><s>To use this shipment, it is necessary to contract the service.</s></p>
+
+To hire, visit https://www.netizap.app/
+
+-->
+
 ## EXAMPLE
 Notifications are usually sent via a WhatsApp group. Here is an example of how a WhatsApp notification is structured.
 
