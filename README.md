@@ -79,7 +79,7 @@ First create a clone of your existing mail notification rule
 * As the first parameter we set the WhatsApp token ID (without bot-prefix)
 * The second parameter is the WhatsApp Chat-ID or WhatsApp Group-ID
 
-<img src="images/create_new_notification_rule_for_WhatsApp.png" alt="Adjust settings" width="100%"/>
+<img src="images/create_new_notification_rule_for_whatsapp.png" alt="Adjust settings" width="100%"/>
 
 
 ```
