@@ -71,9 +71,8 @@ First create a clone of your existing mail notification rule
 
 <br>
 
-## CONTRIBUTIONS
-* Thank you for the excellent code optimization contributions and additional information [ThomasKaiser](https://github.com/ThomasKaiser).
-* Best regards to [Jonathan Barratt](https://github.com/reduxionist) in Bangkok and many thanks for adding emojies to the module.
+## INSPIRATION
+* Thank you for the excellent code optimization contributions and additional information [ThomasKaiser](https://
 
 ## LICENSE
 checkmk-telegram-notify and all individual scripts are under the BSD 3-Clause license unless explicitly noted otherwise. Please refer to the LICENSE
