@@ -62,17 +62,15 @@ First create a clone of your existing mail notification rule
 <img src="images/create_new_notification_rule_for_whatsapp.png" alt="Adjust settings" width="100%"/>
 
 
-```
-
 ## TROUBLESHOOTING
 For more details and troubleshooting with parameters please check:
 * Check_MK notification logfile: /omd/sites/{sitename}/var/log/notify.log
 * [Check_MK  Manual > Notifications > Chapter: 11.3. A simple example](https://docs.checkmk.com/latest/en/notifications.html#H1:Real)
-* [[Feature-Request] Multiple Alert Profiles](https://github.com/filipnet/checkmk-WhatsApp-notify/issues/3)
+* [[Feature-Request] Multiple Alert Profiles](https://github.com/filipnet/checkmk-telegram-notify/issues/3)
 
 ## CONTRIBUTIONS
 * Thank you for the excellent code optimization contributions and additional information [ThomasKaiser](https://github.com/ThomasKaiser).
 * Best regards to [Jonathan Barratt](https://github.com/reduxionist) in Bangkok and many thanks for adding emojies to the module.
 
 ## LICENSE
-checkmk-WhatsApp-notify and all individual scripts are under the BSD 3-Clause license unless explicitly noted otherwise. Please refer to the LICENSE
+checkmk-telegram-notify and all individual scripts are under the BSD 3-Clause license unless explicitly noted otherwise. Please refer to the LICENSE
