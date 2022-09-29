@@ -56,19 +56,14 @@ First create a clone of your existing mail notification rule
 * Change the description (e.g. Notify all contacts of a host/service via WhatsApp)
 * The notification method is "Push Notification (by WhatsApp)"
 * Select option "Call with the following parameters:"
-* As the first parameter we set the WhatsApp line (without bot-prefix)
+* As the first parameter we set the WhatsApp line (API number provided)
 * The second parameter is the WhatsApp destiny WhatsApp line / Group-ID
 * The third parameter is the api port WhatsApp
 * The fourth parameter is the api key WhatsApp
 
 <img src="images/create_new_notification_rule_for_whatsapp.png" alt="Adjust settings" width="100%"/>
 
-
-## TROUBLESHOOTING
-For more details and troubleshooting with parameters please check:
-* Check_MK notification logfile: /omd/sites/{sitename}/var/log/notify.log
-* [Check_MK  Manual > Notifications > Chapter: 11.3. A simple example](https://docs.checkmk.com/latest/en/notifications.html#H1:Real)
-* [[Feature-Request] Multiple Alert Profiles](https://github.com/filipnet/checkmk-telegram-notify/issues/3)
+\n
 
 ## CONTRIBUTIONS
 * Thank you for the excellent code optimization contributions and additional information [ThomasKaiser](https://github.com/ThomasKaiser).
