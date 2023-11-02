@@ -81,8 +81,5 @@ First create a clone of your existing mail notification rule
 
 <br>
 
-## INSPIRATION
-* Thanks for the excellent script for telegram with some adjustments we managed to make it functional for use with whatsapp. https://github.com/filipnet/checkmk-telegram-notify
-
 ## LICENSE
 checkmk-whatsapp-notify and all individual scripts are under the BSD 3-Clause license unless explicitly noted otherwise. Please refer to the LICENSE
