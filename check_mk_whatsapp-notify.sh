@@ -64,7 +64,7 @@ case "${STATE}" in
         ;;
 esac
 
-# Crie uma variável MESSAGE para enviar ao seu WhatsApp
+# Variável MESSAGE para enviar ao seu WhatsApp
 
 MESSAGE="${NOTIFY_HOSTNAME} (${NOTIFY_HOSTALIAS})\n\n"
 MESSAGE+="${EMOJI} ${NOTIFY_WHAT} ${NOTIFY_NOTIFICATIONTYPE}\n\n"
